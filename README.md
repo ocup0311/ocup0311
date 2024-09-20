@@ -28,7 +28,7 @@
 
 ## # 聯絡方式
 
-- Email: [ocup0311@gmail.com]
+- Email: [ocup0311@gmail.com] | (<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ocup0311@gmail.com">Using Gmail</a>)
 - Note: [Ocup 學習筆記]
 
 ## # 技術項目
