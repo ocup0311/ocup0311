@@ -17,6 +17,7 @@
 [BackEnd]: https://github.com/ocup0311/NOTE/blob/main/BackEnd/README.md
 [Git]: https://github.com/ocup0311/NOTE/blob/main/Tool/Git/note/note.md
 [System Design]: https://github.com/ocup0311/NOTE/blob/main/System/README.md
+[Vagrant]: https://github.com/ocup0311/NOTE/blob/main/DevOps/Vagrant/note/note.md
 
 ---
 
@@ -29,11 +30,11 @@
 ## # 聯絡方式
 
 - Email: [ocup0311@gmail.com] | (<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ocup0311@gmail.com">Using Gmail</a>)
-- Note: [Ocup 學習筆記]
 
 ## # 技術項目
 
-[Algorithm] | [MySQL] | [MongoDB] | [Docker] | [K8s] | [Ansible] | [Linux] | [TypeScript] | [JavaScript] | [NodeJS] | [React] | [BackEnd] | [Git] | [System Design]
+[Algorithm] | [MySQL] | [MongoDB] | [Docker] | [K8s] | [Ansible] | [Vagrant] | [Linux] | [TypeScript] | [JavaScript] | [NodeJS] | [React] | [Git] | [System Design] | [BackEnd]
+
 
 > 更多技術相關內容請參考我的[學習筆記]
 
