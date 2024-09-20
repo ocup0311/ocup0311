@@ -23,6 +23,8 @@
 
 目前正在尋找新的工作機會，期待與優秀的團隊合作，請參考我的[履歷]
 
+<a href="https://sites.google.com/view/ocup0311/resume" target="_blank" rel="noopener noreferrer">履歷 (測試 github markdown 用)</a>
+
 ---
 
 ## # 聯絡方式
